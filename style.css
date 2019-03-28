@@ -1,0 +1,30 @@
+body{
+    background-color:orange;
+   }
+
+
+
+  p{
+    font-family:helvetica, sans-serif;
+    font-size:6em;
+    text-align:center;
+    color:black;
+    
+    }
+
+
+  .box{
+    width:300px;
+    height:400px;
+    background-color:blue;
+    border: 1px red solid;
+    
+   }
+
+  .box:hover{
+    background-image: url("catimage.jpg")
+    
+    
+    }
+
+  
